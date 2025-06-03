@@ -72,5 +72,5 @@ Traffic-Monitoring-System/
 This project is licensed under the MIT License.
 
 ---
-**Author**: Muhammed Yazeen S | 
+**Author**: Gouri Dinesh Shaima  
 
